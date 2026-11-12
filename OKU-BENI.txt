@@ -1,0 +1,11 @@
+TRT Çocuk – Yarışçı Arazi (HTML5 sürümü)
+
+1) trt-yarisci-arazi.html  -> TEK DOSYA. Her şey içine gömülü (oyun, 3D motor, fizik, ses, resimler).
+   Çift tıklayın ya da telefonda açın; sunucu veya internet gerekmez.
+2) web/                     -> Sunucuya yüklenecek çok dosyalı sürüm (daha hızlı açılır). web/index.html
+
+Telefon: otomatik algılanır. Oyun her zaman yatay görünür, ekranda GAZ / FREN / yön / yola dön / duraklat tuşları çıkar.
+PC: Ok tuşları / WASD = sür, Boşluk = fren, R = yola dön, ESC = menü, A / B = soru cevapla.
+
+Sitenize gömmek için:
+<iframe src="trt-yarisci-arazi.html" style="width:100%;aspect-ratio:16/9;border:0" allow="fullscreen; autoplay; screen-wake-lock" allowfullscreen></iframe>
